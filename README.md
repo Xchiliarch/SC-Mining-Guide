@@ -68,13 +68,13 @@
 
     ​	需要注意的是，除了FLTR-XL模组，上述模组均为消耗品，使用5次后即消失，需要在收船后在载具管理界面进行重新安装。FLTR-XL模组为被动模组，安装上即可一直生效，但该模组价格高昂。在游戏中，若矿船爆炸，保险后的船将不会安装任何模组，需要重新补充。如果安装该模组的船只损坏，是一笔不小的损失，并且单人小矿开采量子矿通常不会吸入过多惰性物质，故FLTR-XL模组并非必需品。
 
-    新手推荐							熟练后
+    新手推荐							     熟练后
 
-    Lancet MH1					 Lancet MH1
+    Lancet MH1					    Lancet MH1
 
-    |-Surge 							|-Surge
+    |-Surge 						  	  |-Surge
 
-    |-Brandt						   |-Brandt/任意
+    |-Brandt						     |-Brandt/任意
 
     |-Lifeline/Rime				|-Stampede/Surge/任意     
 
