@@ -148,12 +148,14 @@
 
   在到达星球表面后，应将量子点设置为ARC-L1，方便采矿后及时返回，节省时间。
 
-  ![image-20220301215348989](C:\Users\Xchil\AppData\Roaming\Typora\typora-user-images\image-20220301215348989.png)
+  ![image-20220301215348989](https://raw.githubusercontent.com/Xchiliarch/Star-Citizen-Mining-Guide/main/img/image-20220301215348989.png)
   
 * ### 1.2 开始寻找
 <details>
     <summary>3.16前技巧，3.17部分失效</summary>
-  到达星球表面后，开始寻找矿石吧！保持地表1500m左右高度巡航，目视寻找成群出现的矿石。可以使用Tab 扫描地表，但寻找成群的矿石通常不会依赖扫描发现，需要自己留心准心上是否闪过大量白色菱形点，这是发现矿石的标志。矿工通常会使用向太阳保持直线飞行的方法来寻找，以保持自己时刻位于星球阳面。如果长时间寻找不到成群矿石，可以尝试量子到新的地点。寻找矿石这一步没有特殊的技巧。</details>
+  到达星球表面后，开始寻找矿石吧！保持地表1500m左右高度巡航，目视寻找成群出现的矿石。可以使用Tab 扫描地表，但寻找成群的矿石通常不会依赖扫描发现，需要自己留心准心上是否闪过大量白色菱形点，这是发现矿石的标志。矿工通常会使用向太阳保持直线飞行的方法来寻找，以保持自己时刻位于星球阳面。如果长时间寻找不到成群矿石，可以尝试量子到新的地点。寻找矿石这一步没有特殊的技巧。
+</details>
+
   ![group](https://raw.githubusercontent.com/Xchiliarch/Star-Citizen-Mining-Guide/main/img/image-20220301215528695.png)
 
 
@@ -173,7 +175,7 @@
 
 ![targ](https://raw.githubusercontent.com/Xchiliarch/Star-Citizen-Mining-Guide/main/img/image-20220504234503407.png)
 
-以上截图取自[星际公民 - 震惊功能 3.17 扫描居然变成了扫矿神器](https://www.bilibili.com/video/BV135411d7),亦可通过此视频了解详细方法
+以上截图取自[星际公民 - 震惊功能 3.17 扫描居然变成了扫矿神器](https://www.bilibili.com/video/BV135411d7zm),亦可通过此视频了解详细方法
 
   * ### 1.3发现矿石！
 
