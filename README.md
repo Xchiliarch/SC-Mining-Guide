@@ -149,33 +149,52 @@
   在到达星球表面后，应将量子点设置为ARC-L1，方便采矿后及时返回，节省时间。
 
   ![image-20220301215348989](C:\Users\Xchil\AppData\Roaming\Typora\typora-user-images\image-20220301215348989.png)
+  
+* ### 1.2 开始寻找
+<details>
+    <summary>3.16前技巧，3.17部分失效</summary>
+  到达星球表面后，开始寻找矿石吧！保持地表1500m左右高度巡航，目视寻找成群出现的矿石。可以使用Tab 扫描地表，但寻找成群的矿石通常不会依赖扫描发现，需要自己留心准心上是否闪过大量白色菱形点，这是发现矿石的标志。矿工通常会使用向太阳保持直线飞行的方法来寻找，以保持自己时刻位于星球阳面。如果长时间寻找不到成群矿石，可以尝试量子到新的地点。寻找矿石这一步没有特殊的技巧。</details>
+  ![group](https://raw.githubusercontent.com/Xchiliarch/Star-Citizen-Mining-Guide/main/img/image-20220301215528695.png)
 
-  * ### 1.2 开始寻找
 
-    ​	到达星球表面后，开始寻找矿石吧！保持地表1500m左右高度巡航，寻找成群出现的矿石。可以使用Tab 扫描地表，但寻找成群的矿石通常不会依赖扫描发现，需要自己留心准心上是否闪过大量白色菱形点，这是发现矿石的标志。矿工通常会使用向太阳保持直线飞行的方法来寻找，以保持自己时刻位于星球阳面。如果长时间寻找不到成群矿石，可以尝试量子到新的地点。寻找矿石这一步没有特殊的技巧。
 
-    ![group](https://raw.githubusercontent.com/Xchiliarch/Star-Citizen-Mining-Guide/main/img/image-20220301215528695.png)
+3.17版本更新后，雷达探测策略有所变化，广域探测的精确定位能力大幅下降，不能一直依赖于目视的办法（即折叠了的方法）。不过新版本同时完善了雷达窄波束的探测能力，故新版本可使用以下办法探测矿石，使用得当可以获得比原先更高的效率：
+	![scann](https://raw.githubusercontent.com/Xchiliarch/Star-Citizen-Mining-Guide/main/img/image-20220504233338615.png)
+
+
+
+
+
+在第一次ping后，按V（默认）进入扫描模式，将准心对准异象，多次按逗号键减小ping角度调整扫描角度至最小即2°后再次ping，即可发现异象变为菱形，即为矿石数目。我们只需重复操作直至找到多组矿石在一起即可前往。
+
+![angle](https://raw.githubusercontent.com/Xchiliarch/Star-Citizen-Mining-Guide/main/img/image-20220504233713058.png)
+
+
+
+![targ](https://raw.githubusercontent.com/Xchiliarch/Star-Citizen-Mining-Guide/main/img/image-20220504234503407.png)
+
+以上截图取自[星际公民 - 震惊功能 3.17 扫描居然变成了扫矿神器](https://www.bilibili.com/video/BV135411d7),亦可通过此视频了解详细方法
 
   * ### 1.3发现矿石！
 
     ​	当发现矿石时，及时减速。小矿的推进器并不高效，为此可以长按F6将动力分配于引擎，获得更快的Boost回充速度。可以通过按K开启VTOL模式将主推进器转向并将姿态调整到速度方向按下X键boost减速。这样比直接不开启VTOL直接转向180°使主推进器反推节约一些飞船调整姿态的时间。
 
     ​	扫描后右侧第一栏显示Quantainium  Deposit的矿石即为量子矿。也可以使用目视的办法鉴别量子矿——黑色矿石中夹杂橙色斑点。![scan](https://raw.githubusercontent.com/Xchiliarch/Star-Citizen-Mining-Guide/main/img/image-20220301215636849.png)
-
+  
     ​	找到矿石后，接近到矿石1000m范围内即可开始扫描，但有时矿头会较为迟钝，这个距离通常要到200m内。按M切换到采矿模式，对准矿石即可开始扫描。
-
+  
     ​	若无法扫描，尝试靠近对矿石轻点左键轰击，通常能够解决。
-  
+
     ​	矿石有质量、不稳定性以及阻力参数。不稳定性越高的矿石在充能过程中能量条的抖动越大，更难以控制其维持在绿区。同等质量下，打开阻力越大的矿石所需要的激光功率越大。
-  
+
     ![UI](https://raw.githubusercontent.com/Xchiliarch/Star-Citizen-Mining-Guide/main/img/image-20220301215956424.png)
 
   * ### 1.4选择合适的矿石
 
     ​	UI右侧即为该矿石的成分构成，其中红色字体的Quantainium(Raw) 为量子矿。
-
+  
     ​	小矿拥有32SCU的货仓装载矿石。为了达到最高收益，矿石的质量与量子矿含量如图
-
+  
     | 质量 | 量子矿百分比 |
     | ---- | ------------ |
     | 4000 | 40           |
@@ -191,9 +210,9 @@
     ​	对于矿石的扫描，也可以使用观察充能条绿条宽度来简单识别。高含量的量子矿绿区宽度非常窄。由于充能区会略先于矿石成分出现，也可略微提高效率。
 
   * ### 1.5 开采
-
+  
     ​	选定合适矿石后，即可开始开采。对于5500质量以下的矿石，通常不需要电涌模组即可开矿。但也可以使用电涌提高开采效率。
-
+  
     ​	观察左上角的距离显示器，将飞船矿头移动到30M范围内。只有在30M内，矿头才有足够的功率输出。按左键开启激光，使用鼠标滚轮上滑将功率调整至100。可从左侧UI看到当前矿头功率。
   
     ![mine](https://raw.githubusercontent.com/Xchiliarch/Star-Citizen-Mining-Guide/main/img/image-20220301220246782.png)
@@ -279,9 +298,9 @@
     
   
     
+
   
-  
-  
+
 * ## 常见Bug及对策
 
   1. #### 小矿UI亮度过高，看不清
